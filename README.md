@@ -1,5 +1,5 @@
 # Fraud_Detection
-Enhancing Bank Fraud Detection in Digital Transactions`
+Enhancing Bank Fraud Detection in Digital Transactions
 
 
 Bank Fraud Detection in Digital Transactions, implemented for a scientific paper                      
