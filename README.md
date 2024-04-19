@@ -9,8 +9,8 @@ We invite contributor to reuse our code source and cite our paper. We would like
 this code is used, this way will allow us to know the evolution of our proposed algorithm. Injoy        
 Contact us: contact@abil.ac.cd - University of Kinshasa                            
 
-# Medical image classification model
-This project contains the code to train a medical image classification model to detect COVID-19, pneumonia and normal.
+# Classification model
+This project contains the code to train a banking data classification model to detect fraud transaction in digital transactions.
 
 # Requirements
 - Python 3.x
